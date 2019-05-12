@@ -1,0 +1,22 @@
+{% extends "baseindex.html" %}
+{% load staticfiles %} <!-- 用于引入静态文件如 jquery等 -->
+
+
+
+{% block styles %}
+    <style>
+          h2{
+              color: red;
+          }
+    </style>
+
+{% endblock %}
+
+
+{% block content%}
+     {{ block.super }}  <!--用于继承base.html中的blockcontent信息-->
+     {% for student in student_list %}
+           <h2>学生{{ student }}</h2>
+     {% endfor %}
+     {% include "test.html" %}  <!-- 用于包含test.html 页面-->
+{% endblock %}

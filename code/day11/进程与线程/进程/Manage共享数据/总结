@@ -1,0 +1,9 @@
+进程间数据是独立的，可以借助于队列或管道实现通信，二者都是基于消息传递的
+
+虽然进程间数据独立，但可以通过Manager实现数据共享，事实上Manager的功能远不止于此
+
+A manager object returned by Manager() controls a server process which holds
+Python objects and allows other processes to manipulate them using proxies.
+
+A manager returned by Manager() will support types list, dict, Namespace, Lock, RLock, Semaphore,
+ BoundedSemaphore, Condition, Event, Barrier, Queue, Value and Array. For example,

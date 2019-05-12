@@ -1,0 +1,29 @@
+> http://www.cnblogs.com/linhaifeng/articles/7428874.html
+
+   创建进程池的类：如果指定numprocess为3，则进程池会从无到有创建三个进程，然后自始至终使用这三个进程去执行所有任务，不会开启其他进程
+
+1 Pool([numprocess  [,initializer [, initargs]]]):创建进程池
+    参数介绍：
+
+1 numprocess:要创建的进程数，如果省略，将默认使用cpu_count()的值
+2 initializer：是每个工作进程启动时要执行的可调用对象，默认为None
+3 initargs：是要传给initializer的参数组
+
+　 方法介绍：
+    主要方法：
+1 p.apply(func [, args [, kwargs]]):在一个池工作进程中执行func(*args,**kwargs),然后返回结果。需要强调的是：此操作并不会在所有池工作进程中并执行func函数。如果要通过不同参数并发地执行func函数，必须从不同线程调用p.apply()函数或者使用p.apply_async()
+2 p.apply_async(func [, args [, kwargs]]):在一个池工作进程中执行func(*args,**kwargs),然后返回结果。此方法的结果是AsyncResult类的实例，callback是可调用对象，接收输入参数。当func的结果变为可用时，将理解传递给callback。callback禁止执行任何阻塞操作，否则将接收其他异步操作中的结果。
+3
+4 p.close():关闭进程池，防止进一步操作。如果所有操作持续挂起，它们将在工作进程终止前完成
+5 P.jion():等待所有工作进程退出。此方法只能在close（）或teminate()之后调用
+
+
+   其他方法（了解部分）
+
+
+方法apply_async()和map_async（）的返回值是AsyncResul的实例obj。实例具有以下方法
+obj.get():返回结果，如果有必要则等待结果到达。timeout是可选的。如果在指定时间内还没有到达，将引发一场。如果远程操作中引发了异常，它将在调用此方法时再次被引发。
+obj.ready():如果调用完成，返回True
+obj.successful():如果调用完成且没有引发异常，返回True，如果在结果就绪之前调用此方法，引发异常
+obj.wait([timeout]):等待结果变为可用。
+obj.terminate()：立即终止所有工作进程，同时不执行任何清理或结束任何挂起工作。如果p被垃圾回收，将自动调用此函数

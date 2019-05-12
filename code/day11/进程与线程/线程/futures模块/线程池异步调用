@@ -1,0 +1,13 @@
+#介绍
+ThreadPoolExecutor is an Executor subclass that uses a pool of threads to execute calls asynchronously.
+class concurrent.futures.ThreadPoolExecutor(max_workers=None, thread_name_prefix='')
+An Executor subclass that uses a pool of at most max_workers threads to execute calls asynchronously.
+
+Changed in version 3.5: If max_workers is None or not given, it will default to the number of processors on the machine, multiplied by 5, assuming that ThreadPoolExecutor is often used to overlap I/O instead of CPU work and the number of workers should be higher than the number of workers for ProcessPoolExecutor.
+
+New in version 3.6: The thread_name_prefix argument was added to allow users to control the threading.Thread names for worker threads created by the pool for easier debugging.
+
+#用法
+与ProcessPoolExecutor相同
+
+ThreadPoolExecutor

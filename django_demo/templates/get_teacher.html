@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+   <a href="/app01/form_add_teacher">添加</a>
+    <ul>
+        {% for row in tea_list %}
+            <li>{{ row.id }}-{{ row.name }} <a href="/app01/form_edit_teacher/{{ row.id }}">编辑</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

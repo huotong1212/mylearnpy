@@ -1,0 +1,8 @@
+2019-04-12 19:36:57,732 - WARNING - logging模块.py[:39] - root warning message
+2019-04-12 19:36:57,732 - ERROR - logging模块.py[:40] - root error message
+2019-04-12 19:36:57,732 - CRITICAL - logging模块.py[:41] - root critical message
+2019-04-12 19:36:57,732 - DEBUG - logging模块.py[:43] - debug message
+2019-04-12 19:36:57,732 - INFO - logging模块.py[:44] - info message
+2019-04-12 19:36:57,732 - WARNING - logging模块.py[:45] - warning message
+2019-04-12 19:36:57,732 - ERROR - logging模块.py[:46] - error message
+2019-04-12 19:36:57,732 - CRITICAL - logging模块.py[:47] - critical message

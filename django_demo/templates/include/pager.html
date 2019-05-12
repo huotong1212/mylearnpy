@@ -1,0 +1,15 @@
+{% if posts.has_previous %}
+    <a href="/app01/index.html?p={{ posts.previous_page_number }}">上一页</a>
+{% else %}
+    <a href="#">上一页</a>
+{% endif %}
+
+{% if posts.has_next %}
+    <a href="/app01/index.html?p={{ posts.next_page_number }}">下一页</a>
+{% else %}
+    <a href="#">下一页</a>
+{% endif %}
+
+<span>
+    {{ posts.number }} - {{ posts.paginator.num_pages }}
+</span>

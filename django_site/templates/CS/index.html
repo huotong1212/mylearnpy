@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% load staticfiles %}
+{#    <script src="jquery-3.1.1.js"></script>#}
+    <script src={% static "jquery-3.3.1.js" %}></script>
+    <title>Title</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0
+        }
+
+
+    </style>
+</head>
+<body>
+
+<h1>hello {{ username }}</h1>
+<a href="/cs/logout/">注销</a>
+</body>
+</html>

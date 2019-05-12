@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="/app01/form_edit_teacher/{{ nid }}" method="post" novalidate>
+        {% csrf_token %}
+        <p>{{ obj.name }}{{ obj.errors.name.0 }}</p>
+        <input type="submit" value="提交" />
+    </form>
+</body>
+</html>

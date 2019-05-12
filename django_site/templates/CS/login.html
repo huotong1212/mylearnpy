@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% load staticfiles %}
+    <script src={% static "jquery-3.3.1.js" %}></script>
+    <title>Title</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0
+        }
+
+
+    </style>
+</head>
+<body>
+
+
+<form action="/cs/login/" method="post"> {% csrf_token %}
+    <p>姓名<input type="text" name="user"></p>
+    <p>密码<input type="password" name="pwd"></p>
+    <p><input type="submit"></p>
+</form>
+
+
+</body>
+</html>

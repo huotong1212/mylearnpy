@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load my_tags %}
+    <meta charset="UTF-8">
+    <script src="jquery-3.1.1.js"></script>
+    <title>Title</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0
+        }
+
+
+    </style>
+</head>
+<body>
+
+<h1>hello {{ name }}</h1>
+
+<form>
+    用户名<input type="text">
+</form>
+
+<h1>{{num}}</h1>
+<h1>{{num|multi:12 }}</h1>
+<h1>{{ num|multi:"[22,333,4444]" }}   相当于复制了，把[22,333,4444]乘了num遍</h1>
+<h1>{% addtags 2 5 6 %} 参数不限,但不能放在if for语句中 {% addtags num 5 6  %}</h1>
+
+<h1>自定义过滤器函数的参数只能两个，可以进行逻辑判断</h1>
+<h3>
+    {% if num|multi:5 > 11 %}
+        <p>{{num}}乘以5大于11</p>
+    {% else %}
+        <p>{{num}}乘以5小于或等于11</p>
+    {% endif %}
+</h3>
+
+</body>
+</html>
