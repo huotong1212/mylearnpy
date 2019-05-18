@@ -27,22 +27,24 @@ if __name__ == '__main__':
     # 生产者们:即厨师们
     p1 = Process(target=producer, args=('包子', q))
     p2 = Process(target=producer, args=('骨头', q))
-    p3 = Process(target=producer, args=('泔水', q))
+    # p3 = Process(target=producer, args=('泔水', q))
 
     # 消费者们:即吃货们
     c1 = Process(target=consumer, args=(q,))
-    c2 = Process(target=consumer, args=(q,))
+    # c2 = Process(target=consumer, args=(q,))
     c1.daemon = True
-    c2.daemon = True
+    # c2.daemon = True
 
     # 开始
-    p_l = [p1, p2, p3, c1, c2]
-    for p in p_l:
-        p.start()
-
+    # p_l = [p1, p2, p3, c1, c2]
+    # for p in p_l:
+    #     p.start()
+    p1.start()
+    p2.start()
+    c1.start()
     p1.join()
     p2.join()
-    p3.join()
+    # p3.join()
     print('主')
 
     # 主进程等--->p1,p2,p3等---->c1,c2
