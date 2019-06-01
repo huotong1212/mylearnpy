@@ -7,50 +7,223 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed9ca524-a56c-40e1-ab99-342e73bb0a99" name="Default Changelist" comment="ruin git init again">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/day11/进程与线程/线程/守护线程和join/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twisteds/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twisteds/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twisteds/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twisteds/.idea/twisteds.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twisteds/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twisteds/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/.idea/scrapyDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/scrapyDemo/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/scrapyDemo/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/scrapyDemo/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/scrapyDemo/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/scrapyDemo/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/scrapyDemo/spiders/baidu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_site/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/redishash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/redislist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/redisop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/redispipline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/.idea/webcrawler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/day96.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/a.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/commands/crawlall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/duplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/spiders/cnblogs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/news.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day96/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/day99.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/1.前戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/2.自定义Scrapy框架.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/3.上午简单回顾.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/4.TinyScrapy.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/4.TinyScrapy/engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/4.TinyScrapy/spider/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/4.TinyScrapy/spider/cnblogs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/day99/4.TinyScrapy/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django学习/day01/helloDjango.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型/JoinableQueueT.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型/JoinableQueueT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/进程/僵尸进程和孤儿进程/僵尸进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/进程/僵尸进程和孤儿进程/僵尸进程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/test02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/守护进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/守护进程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_inst/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/webcrawler/scrapyDemo/scrapyDemo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/webcrawler/爬虫并发/多线程并发.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/mysite/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/mysite/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django_demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_demo/form_sample/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_demo/form_sample/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_demo/form_sample/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_demo/form_sample/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_site/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django_site/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -154,88 +327,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/线程/futures模块/进程池异步调用.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="26" column="23" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/线程/自定义线程池/demo02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/day09/socket循环通信/服务器.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/day09/socket通信/socket01.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/day09/socket通信/socket客户端.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/day12/selector模块应用/client.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/day12/selector模块应用/ftp_server.py">
+        <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="403">
+              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
               <folding>
-                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#24#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/day09/socket循环通信/客户端.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py.bak">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/线程/自定义线程池/demo01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/守护进程.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/cnblogs.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -262,6 +373,9 @@
       <find>INSTALLED_APPS</find>
       <find>blog</find>
       <find>线程</find>
+      <find>items</find>
+      <find>item</find>
+      <find>yield</find>
     </findStrings>
     <replaceStrings>
       <replace>D:\\000\\111</replace>
@@ -288,8 +402,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/code/day12/非阻塞IO/serverNo.py" />
-        <option value="$PROJECT_DIR$/code/day12/非阻塞IO/clientNo.py" />
         <option value="$PROJECT_DIR$/code/day12/selector模块/server00.py" />
         <option value="$PROJECT_DIR$/code/day12/selector模块应用.py" />
         <option value="$PROJECT_DIR$/code/day12/selector模块/client.py" />
@@ -339,14 +451,16 @@
         <option value="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/守护进程.py" />
         <option value="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/test02.py" />
         <option value="$PROJECT_DIR$/code/day12/selector模块应用/ftp_server.py" />
+        <option value="$PROJECT_DIR$/redis/redisop.py" />
+        <option value="$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1294" />
-    <option name="height" value="708" />
+    <option name="width" value="640" />
+    <option name="height" value="345" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -356,7 +470,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -367,12 +480,41 @@
             <path>
               <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled1" type="462c0819:PsiDirectoryNode" />
-              <item name="数据分析" type="462c0819:PsiDirectoryNode" />
+              <item name="webcrawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="webcrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="day96" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="webcrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="day96" type="462c0819:PsiDirectoryNode" />
+              <item name=".scrapy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="webcrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="day96" type="462c0819:PsiDirectoryNode" />
+              <item name="day96" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="webcrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="day96" type="462c0819:PsiDirectoryNode" />
+              <item name="day96" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -402,19 +544,19 @@
     <option name="myShowVariablesByDefault" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\rabbitdemo" />
-      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site\templates\ORM" />
-      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site\templates" />
-      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site\blog" />
-      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\day12\selector模块" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site\blog" />
       <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site" />
       <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site\templates\static" />
       <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\day13\pyMysql模块" />
       <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\day11\进程与线程\进程\进程池" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\rabbitdemo" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site\templates\ORM" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site\templates" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site\blog" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\day12\selector模块" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -703,10 +845,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test02" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.守护进程" />
+        <item itemvalue="Python.test02" />
         <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.example" />
       </list>
     </recent_temporary>
@@ -755,6 +897,22 @@
       <workItem from="1557817268347" duration="15268000" />
       <workItem from="1557887879940" duration="1885000" />
       <workItem from="1558156582460" duration="318000" />
+      <workItem from="1558157059272" duration="1276000" />
+      <workItem from="1558625738847" duration="1558000" />
+      <workItem from="1558709123454" duration="2216000" />
+      <workItem from="1558794821289" duration="599000" />
+      <workItem from="1558858886824" duration="6100000" />
+      <workItem from="1558936809403" duration="69000" />
+      <workItem from="1558962070513" duration="599000" />
+      <workItem from="1559035905933" duration="540000" />
+      <workItem from="1559053903040" duration="599000" />
+      <workItem from="1559100212155" duration="61000" />
+      <workItem from="1559137659423" duration="674000" />
+      <workItem from="1559193546467" duration="102000" />
+      <workItem from="1559227871805" duration="1198000" />
+      <workItem from="1559278877114" duration="108000" />
+      <workItem from="1559305283234" duration="1316000" />
+      <workItem from="1559383204993" duration="253000" />
     </task>
     <task id="LOCAL-00001" summary="first git commit">
       <created>1557642027263</created>
@@ -838,7 +996,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293532000" />
+    <option name="totallyTimeSpent" value="310800000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -850,9 +1008,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49588478" visible="true" weight="0.18364611" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49588478" visible="true" weight="0.19101876" />
       <window_info id="Favorites" order="1" sideWeight="0.5041152" side_tool="true" weight="0.17962466" />
       <window_info id="Structure" order="2" sideWeight="0.5041152" side_tool="true" weight="0.17962466" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -866,14 +1025,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.6331445" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49865952" visible="true" weight="0.2917847" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49865952" weight="0.49716714" />
       <window_info anchor="bottom" x="22" y="302" width="1492" height="220" id="Python Console" order="12" sideWeight="0.49865952" weight="0.40934843" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4978903" weight="0.3297587" />
-      <window_info anchor="right" id="Database" order="4" sideWeight="0.4978903" weight="0.3297587" />
-      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.5021097" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49301398" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.49301398" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.506986" side_tool="true" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -912,118 +1071,15 @@
           <line>15</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day58/templates/index1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day58/templates/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-214" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webcrawler/btf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day01/fileoperation.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webcrawler/爬虫并发/多线程并发.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/创建进程的2种方式/进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/创建进程的2种方式/进程02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/进程-内存空间.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/僵尸进程和孤儿进程/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/僵尸进程和孤儿进程/孤儿进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/僵尸进程和孤儿进程/僵尸进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/僵尸进程和孤儿进程/解决僵尸进程.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/进程同步锁/加锁.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/进程同步锁/当共享同一文件时/模拟抢票-不加锁.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-128" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/进程同步锁/当共享同一文件时/模拟抢票-加锁.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/进程同步锁/不加锁.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/进程通信/队列/example01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/进程通信/队列/example02.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型/instance03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-450">
@@ -1223,13 +1279,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/day09/socket循环通信/服务器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/day09/socket通信/socket01.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1265,13 +1314,115 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/day12/selector模块应用/ftp_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="120">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcrawler/day96/a.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcrawler/ptmJS/ptmjs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcrawler/ptmJS/seleniumtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/redisop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day06/使用property/Student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day05/animal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1038" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day09/socket循环通信/服务器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day08/类装饰器/testde.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-772" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day02/generateTest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day02/generate.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day02/iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-954" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day03/decorator2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day04/modules/jsonTest.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day04/hashlib模块/md5file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day05/testNoitem.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py.bak">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/cnblogs.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

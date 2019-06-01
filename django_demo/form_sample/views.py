@@ -29,6 +29,8 @@ def f1(request):
         obj = F1Form()
         return render(request,"form/f1.html",{'obj':obj})
     elif request.method == 'POST':
+        print('--------', request.body)
+        print('--------',request.POST)
         obj = F1Form(request.POST)
         # 检查是否验证成功
         if obj.is_valid():
@@ -59,9 +61,16 @@ def index(request):
 
 def ajax_get(request):
     print('Ajax,GET',request.GET)
-    return HttpResponse("ajax_get success")
+    # return HttpResponse("ajax_get success")
+    ret = {'status':True, 'msg': '....','token':'abc'}
+    import json
+    import time
+    time.sleep(3)
+    return HttpResponse(json.dumps(ret))
 def ajax1(request):
     import time
+    print(request.body)
+    # print(request.body.user)
     print(request.GET)
     print(request.POST)
     print(request.FILES)
