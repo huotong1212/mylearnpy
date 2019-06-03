@@ -7,6 +7,8 @@
 
 from scrapy import signals
 from scrapy.core.engine import ExecutionEngine
+from scrapy.http import Response
+
 
 class DownMiddleware1(object):
     def process_request(self, request, spider):
@@ -34,6 +36,7 @@ class DownMiddleware1(object):
             raise IgnoreRequest 异常：调用Request.errback
         '''
         print('DownMiddleware1.process_response')
+        # Response 必须被重写
         return response
 
     def process_exception(self, request, exception, spider):
