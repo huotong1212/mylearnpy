@@ -46,4 +46,4 @@ b = 1
 fun = Test.lazy_sum(2,3)
 print(fun)
 print(type(fun))
-fun()
+print(fun())

@@ -1,5 +1,5 @@
 def decorate(cls):
-    print('类的装饰器开始运行啦------>')
+    print('类的装饰器开始运行啦------>',cls)
     return cls
 
 @decorate #无参:People=decorate(People)
@@ -9,5 +9,5 @@ class People:
         self.age=age
         self.salary=salary
 
-p1=People('egon',18,3333.3)
+# p1=People('egon',18,3333.3)
 

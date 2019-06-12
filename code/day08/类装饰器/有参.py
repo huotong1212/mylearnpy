@@ -12,3 +12,5 @@ class People:
 
 p1=People('egon',18,3333.3)
 
+#有参:1.运行typeassert(...)返回结果是decorate,此时参数都传给kwargs
+# 2.People=decorate(People)

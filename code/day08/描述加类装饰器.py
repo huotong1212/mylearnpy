@@ -31,9 +31,16 @@ class People:
         self.age=age
         self.salary=salary
 
-print(People.__dict__)
+#有参:1.运行typeassert(...)返回结果是decorate,此时参数都传给kwargs
+# 2.People=decorate(People)
+
+print('People-----',People.__dict__)  # 在decorate(People)装饰符的函数中加了数据装饰符属性
 p1=People('egon',18,3333.3)
-print('-----',p1.__dict__)
-print(p1.name)
+print('People.name',People.name)
+print('p1-----',p1.__dict__) # 因为 instance.__dict__[self.name]=value的缘故，p1中也添加了这些实例属性
+print('People-----',People.__dict__)
+print(p1.name) # 因为数据装饰符的优先级大于实例属性，
+                # 所有这里的name其实是描述符，然后调用了描述符中的get方法，
+                # 返回了实例中的实例属性name
 p1.name = 'das'
 print(p1.name)

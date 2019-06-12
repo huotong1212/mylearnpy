@@ -7,21 +7,29 @@ class A():
         raise Exception("Not Implemented")
 class B(A):
     def go(self):
-        super(B, self).go()
+        super().go()
         print ("go B go!")
 class C(A):
     def go(self):
-        super(C, self).go()
+        super().go()
         print ("go C go!")
     def stop(self):
-        super(C, self).stop()
+        super().stop()
         print ("stop C stop!")
-class D(B,C):
+class E(A):
     def go(self):
-        super(D, self).go()
+        super().go()
+        print ("go E go!")
+    def stop(self):
+        super().stop()
+        print ("stop E stop!")
+
+class D(B,C,E):
+    def go(self):
+        super().go()
         print ("go D go!")
     def stop(self):
-        super(D, self).stop()
+        super().stop()
         print ("stop D stop!")
     def pause(self):
         print ("wait D wait!")

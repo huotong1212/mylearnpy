@@ -1,6 +1,7 @@
 
 class Student(object):
-
+    x=1
+    y=2
     def __init__(self):
         self.name = 'Michael'
 
@@ -12,7 +13,9 @@ class Student(object):
         raise AttributeError('\'Student\' object has no attribute \'%s\'' % item)
 
 s = Student()
-print(s.name)
-print(s.age())
-print(s.grade)
-print(s.score)
+print(s.__dict__)
+print(Student.__dict__)
+# print(s.name)
+# print(s.age())
+# print(s.grade)
+# print(s.score)
