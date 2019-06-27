@@ -2,27 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0b887cd-726a-4b15-9553-0fb7e8b86e07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/gsdattr方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符优先级测试/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符优先级测试/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符优先级测试/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符优先级测试/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符优先级测试/类属性大于数据描述符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符的应用/函数与数据描述符的优先级测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符的应用/函数与类属性优先级测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符的应用/描述符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符的应用/描述符2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符的应用/描述符3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符的应用/描述符4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符的应用/描述符优先级.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符练习/回顾portery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符练习/自定制classmethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符练习/自定制portery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符练习/自定制portery2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/描述符练习/自定制描述符3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13/测试面向对象/superPython3用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13/测试面向对象/super用法4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLAlchemy学习/demo执行原生语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/创建数据表/signleTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/创建数据表/创建表一对多.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/创建数据表/创建表多对多.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/基本操作/基本增删改查.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/基本操作/增加数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLAlchemy学习/原生02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery学习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery学习/celeryServer/demo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/协程/yield并发执行.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/进程与线程/线程/条件变量同步/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/并发编程练习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/并发编程练习/使用gevent创建协程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demotest.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythoin面试准备/python之函数/装饰器.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythoin面试准备/面向对象测试/init方法.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythoin面试准备/面试题/ip转为二进制.py" afterDir="false" />
@@ -36,15 +29,40 @@
       <change afterPath="$PROJECT_DIR$/../pythoin面试准备/面试题/进制转换.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/untitled1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/day03/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/重写getattr.py" beforeDir="false" afterPath="$PROJECT_DIR$/day07/重写getattr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/描述加类装饰器.py" beforeDir="false" afterPath="$PROJECT_DIR$/day08/描述加类装饰器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/描述符的应用/example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day08/描述符的应用/example2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/类装饰器/无参.py" beforeDir="false" afterPath="$PROJECT_DIR$/day08/类装饰器/无参.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/类装饰器/有参.py" beforeDir="false" afterPath="$PROJECT_DIR$/day08/类装饰器/有参.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day13/测试面向对象/super用法.py" beforeDir="false" afterPath="$PROJECT_DIR$/day13/测试面向对象/super用法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day13/测试面向对象/super用法02.py" beforeDir="false" afterPath="$PROJECT_DIR$/day13/测试面向对象/super用法02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/configparse模块/configparse.py" beforeDir="false" afterPath="$PROJECT_DIR$/day04/configparse模块/configparse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/进程与线程/线程/创建线程-2种方式/直接调用.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11/进程与线程/线程/创建线程-2种方式/直接调用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/进程与线程/线程/同步条件-event/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11/进程与线程/线程/同步条件-event/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/进程与线程/线程/条件变量同步/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11/进程与线程/线程/条件变量同步/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/进程与线程/线程/线程锁/同步锁.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11/进程与线程/线程/线程锁/同步锁.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/进程与线程/进程/守护进程/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11/进程与线程/进程/守护进程/test02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/进程与线程/进程/守护进程/守护进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11/进程与线程/进程/守护进程/守护进程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/进程与线程/进程/进程池/进程池异步调用.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11/进程与线程/进程/进程池/进程池异步调用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../django_demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/.idea/rabbitdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/.idea/rabbitdemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/direct_receive.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/direct_receive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/direct_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/direct_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/fanout_receive.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/fanout_receive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/fanout_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/fanout_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/receive1.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/receive1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/recv_msg_safe.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/recv_msg_safe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/rpc_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/rpc_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/rpc_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/rpc_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/send_msg_safe.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/send_msg_safe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/sender1.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/sender1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/topic_receive.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/topic_receive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/topic_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/topic_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/redis/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/redishash.py" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redishash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/redislist.py" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redislist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/redisop.py" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redisop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/redispipline.py" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redispipline.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../webcrawler/day99/2.自定义Scrapy框架.py" beforeDir="false" afterPath="$PROJECT_DIR$/../webcrawler/day99/2.自定义Scrapy框架.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,109 +73,71 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/code$3.coverage" NAME="自定制描述符3 Coverage Results" MODIFIED="1560320820883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符练习" />
+    <SUITE FILE_PATH="coverage/code$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1560343818847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/进程与线程/进程/守护进程" />
     <SUITE FILE_PATH="coverage/code$portery.coverage" NAME="自定制portery Coverage Results" MODIFIED="1560248319461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符练习" />
-    <SUITE FILE_PATH="coverage/code$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1560258469947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符优先级测试" />
+    <SUITE FILE_PATH="coverage/code$demotest__3_.coverage" NAME="demotest (3) Coverage Results" MODIFIED="1560421680674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1560349327278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/进程与线程/线程/条件变量同步" />
+    <SUITE FILE_PATH="coverage/code$_.coverage" NAME="创建表-多对多 Coverage Results" MODIFIED="1560408877601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLAlchemy学习/使用ORM" />
+    <SUITE FILE_PATH="coverage/code$JoinableQueueT.coverage" NAME="JoinableQueueT Coverage Results" MODIFIED="1560344644615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/进程与线程/生产者消费者模型" />
+    <SUITE FILE_PATH="coverage/code$gevent.coverage" NAME="使用gevent创建协程 Coverage Results" MODIFIED="1560393964566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13/并发编程练习" />
+    <SUITE FILE_PATH="coverage/code$test.coverage" NAME="test Coverage Results" MODIFIED="1560346588358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/进程与线程/线程/守护线程和join" />
+    <SUITE FILE_PATH="coverage/code$demotest__2_.coverage" NAME="demotest (2) Coverage Results" MODIFIED="1560421160433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery学习" />
+    <SUITE FILE_PATH="coverage/code$super02.coverage" NAME="super用法02 Coverage Results" MODIFIED="1556970826409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13/测试面向对象" />
+    <SUITE FILE_PATH="coverage/code$example.coverage" NAME="example Coverage Results" MODIFIED="1560348961166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/进程与线程/线程/同步条件-event" />
+    <SUITE FILE_PATH="coverage/code$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1560249660998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符的应用" />
+    <SUITE FILE_PATH="coverage/code$__1_.coverage" NAME="增加数据 (1) Coverage Results" MODIFIED="1560410520352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLAlchemy学习/使用ORM" />
     <SUITE FILE_PATH="coverage/code$portery__1_.coverage" NAME="自定制portery (1) Coverage Results" MODIFIED="1560253834152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符练习" />
     <SUITE FILE_PATH="coverage/code$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1560256921820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符优先级测试" />
+    <SUITE FILE_PATH="coverage/code$yield.coverage" NAME="yield并发执行 Coverage Results" MODIFIED="1560392842974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/协程" />
     <SUITE FILE_PATH="coverage/code$classmethod.coverage" NAME="自定制classmethod Coverage Results" MODIFIED="1560325499115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符练习" />
+    <SUITE FILE_PATH="coverage/code$demo.coverage" NAME="demo执行原生语句 Coverage Results" MODIFIED="1560406898465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLAlchemy学习" />
     <SUITE FILE_PATH="coverage/code$ip.coverage" NAME="ip转为二进制 Coverage Results" MODIFIED="1559402450101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
-    <SUITE FILE_PATH="coverage/code$test.coverage" NAME="test Coverage Results" MODIFIED="1560256129169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符优先级测试" />
+    <SUITE FILE_PATH="coverage/code$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1560349284482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/进程与线程/线程/条件变量同步" />
+    <SUITE FILE_PATH="coverage/code$withSession.coverage" NAME="withSession Coverage Results" MODIFIED="1560410815227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/增" />
     <SUITE FILE_PATH="coverage/code$2.coverage" NAME="描述符2 Coverage Results" MODIFIED="1560252120210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符的应用" />
-    <SUITE FILE_PATH="coverage/code$.coverage" NAME="描述加类装饰器 Coverage Results" MODIFIED="1560319264428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
+    <SUITE FILE_PATH="coverage/code$.coverage" NAME="增加数据 Coverage Results" MODIFIED="1560410151343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/增" />
     <SUITE FILE_PATH="coverage/code$portery2.coverage" NAME="自定制portery2 Coverage Results" MODIFIED="1560320040862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符练习" />
-    <SUITE FILE_PATH="coverage/code$super02.coverage" NAME="super用法02 Coverage Results" MODIFIED="1556970826409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13/测试面向对象" />
+    <SUITE FILE_PATH="coverage/code$demotest.coverage" NAME="demotest Coverage Results" MODIFIED="1560420377950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery学习" />
     <SUITE FILE_PATH="coverage/code$super.coverage" NAME="super用法 Coverage Results" MODIFIED="1556970642781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13/测试面向对象" />
-    <SUITE FILE_PATH="coverage/code$example.coverage" NAME="example Coverage Results" MODIFIED="1560243326595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符的应用" />
-    <SUITE FILE_PATH="coverage/code$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1560249660998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/描述符的应用" />
+    <SUITE FILE_PATH="coverage/code$semaphoreT.coverage" NAME="semaphoreT Coverage Results" MODIFIED="1560345474494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/进程与线程/进程/信号量" />
+    <SUITE FILE_PATH="coverage/code$Queue.coverage" NAME="Queue注意 Coverage Results" MODIFIED="1560349764629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/进程与线程/线程/线程通信/队列" />
+    <SUITE FILE_PATH="coverage/code$demotest__1_.coverage" NAME="demotest (1) Coverage Results" MODIFIED="1560420476330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$02.coverage" NAME="原生02 Coverage Results" MODIFIED="1560407129947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLAlchemy学习" />
+    <SUITE FILE_PATH="coverage/code$__2_.coverage" NAME="增加数据 (2) Coverage Results" MODIFIED="1560410535320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/增" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day08/描述符练习/自定制portery2.py">
+        <entry file="file://$PROJECT_DIR$/celery学习/celeryServer/demo01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day08/描述符练习/自定制描述符3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            <state relative-caret-position="280">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day08/描述符练习/自定制classmethod.py">
+        <entry file="file://$PROJECT_DIR$/demotest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state relative-caret-position="140">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day08/描述符自定制/实现classmethod.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="18" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/celery学习/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day08/描述符练习/自定制portery.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="838">
-              <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-            </state>
-          </provider>
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/raven/contrib/celery/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day08/描述加类装饰器.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day08/描述符的应用/函数与类属性优先级测试.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day08/描述符的应用/函数与数据描述符的优先级测试.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day08/描述符优先级测试/类属性大于数据描述符.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day08/描述符的应用/类型限制.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-576" />
-          </provider>
+        <entry file="file://$PROJECT_DIR$/redis/redishash.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -172,7 +152,15 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>一个类中定义描述符它就是一个类属性</find>
+      <find>started</find>
+      <find>starte</find>
+      <find>metadata</find>
+      <find>Users</find>
+      <find>redi</find>
     </findStrings>
+    <replaceStrings>
+      <replace>User</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -204,14 +192,41 @@
         <option value="$PROJECT_DIR$/day08/描述符优先级测试/类属性大于数据描述符.py" />
         <option value="$PROJECT_DIR$/day08/描述符练习/自定制portery2.py" />
         <option value="$PROJECT_DIR$/day08/描述符练习/自定制classmethod.py" />
+        <option value="$PROJECT_DIR$/day11/进程与线程/进程/守护进程/守护进程.py" />
+        <option value="$PROJECT_DIR$/day11/进程与线程/进程/守护进程/test02.py" />
+        <option value="$PROJECT_DIR$/day11/进程与线程/进程/进程池/进程池异步调用.py" />
+        <option value="$PROJECT_DIR$/day11/进程与线程/线程/线程锁/同步锁.py" />
+        <option value="$PROJECT_DIR$/day11/进程与线程/线程/同步条件-event/example.py" />
+        <option value="$PROJECT_DIR$/day11/进程与线程/线程/条件变量同步/test.py" />
+        <option value="$PROJECT_DIR$/day11/进程与线程/线程/条件变量同步/test2.py" />
+        <option value="$PROJECT_DIR$/day11/协程/yield并发执行.py" />
+        <option value="$PROJECT_DIR$/day11/进程与线程/线程/创建线程-2种方式/直接调用.py" />
+        <option value="$PROJECT_DIR$/day13/并发编程练习/使用gevent创建协程.py" />
+        <option value="$PROJECT_DIR$/day12/selector模块应用/ftp_server.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy学习/demo.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy学习/demo执行原生语句.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy学习/原生02.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/创建数据库表.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/创建表一对多.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/创建表-多对多.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/增/增加输出.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/增/增加数据.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/增加数据.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/增/withSession.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/基本操作/基本增删改查.py" />
+        <option value="$PROJECT_DIR$/celery学习/demo01.py" />
+        <option value="$PROJECT_DIR$/celery学习/demotest.py" />
+        <option value="$PROJECT_DIR$/celery学习/__init__.py" />
+        <option value="$PROJECT_DIR$/demotest.py" />
+        <option value="$PROJECT_DIR$/celery学习/celeryServer/demo01.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1060" />
+    <option name="width" value="640" />
+    <option name="height" value="345" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -221,6 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,11 +244,30 @@
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="celery学习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,6 +276,19 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\celery学习" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\celery学习\celeryServer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\celery学习\celeryServer" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\celery学习" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\SQLAlchemy学习\使用ORM\创建数据表" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\SQLAlchemy学习\使用ORM\增" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -254,51 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.自定制classmethod">
-    <configuration name="描述加类装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/描述加类装饰器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="自定制描述符3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08/描述符练习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/描述符练习/自定制描述符3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.demotest (3)">
     <configuration name="求结果" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -343,7 +347,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="自定制classmethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demotest (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -351,12 +355,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08/描述符练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/描述符练习/自定制classmethod.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lenovo\PycharmProjects\untitled1\code\demotest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,7 +369,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="实现classmethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demotest (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,12 +377,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08/描述符自定制" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/celery学习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/描述符自定制/实现classmethod.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lenovo\PycharmProjects\untitled1\code\demotest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,7 +391,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="自定制portery2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demotest (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -395,12 +399,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08/描述符练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/描述符练习/自定制portery2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demotest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demotest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/celery学习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lenovo\PycharmProjects\untitled1\code\demotest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="withSession" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/增" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLAlchemy学习/使用ORM/增/withSession.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -411,11 +459,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.自定制classmethod" />
-        <item itemvalue="Python.实现classmethod" />
-        <item itemvalue="Python.自定制描述符3" />
-        <item itemvalue="Python.自定制portery2" />
-        <item itemvalue="Python.描述加类装饰器" />
+        <item itemvalue="Python.demotest (3)" />
+        <item itemvalue="Python.demotest (2)" />
+        <item itemvalue="Python.demotest (1)" />
+        <item itemvalue="Python.demotest" />
+        <item itemvalue="Python.withSession" />
       </list>
     </recent_temporary>
   </component>
@@ -437,12 +485,22 @@
       <workItem from="1559401805400" duration="1433000" />
       <workItem from="1559449202569" duration="34000" />
       <workItem from="1560243312056" duration="20025000" />
-      <workItem from="1560313969498" duration="11373000" />
+      <workItem from="1560313969498" duration="21724000" />
+      <workItem from="1560392634138" duration="14670000" />
+      <workItem from="1560419452216" duration="2838000" />
     </task>
+    <task id="LOCAL-00001" summary="decorate and describe">
+      <created>1560340003009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560340003009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39819000" />
+    <option name="totallyTimeSpent" value="67678000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -456,12 +514,36 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15601882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16879624" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43767706" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.38526914" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="aiXcoder" order="5" side_tool="true" weight="0.32952252" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22326833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28186968" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14305949" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -478,260 +560,355 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="aiXcoder" order="5" side_tool="true" weight="0.32952252" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="decorate and describe" />
+    <option name="LAST_COMMIT_MESSAGE" value="decorate and describe" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day13/测试面向对象/super用法.py">
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/线程锁/递归锁.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day13/测试面向对象/super用法02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/testNoitem.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/Testitem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-123" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/test01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/student.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01/fileoperation.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02/generate.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02/iterator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1067" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day03/decorator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day03/decorator2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day03/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day14/进制转换.py" />
-    <entry file="file://$PROJECT_DIR$/day14/ip转为二进制.py" />
-    <entry file="file://$PROJECT_DIR$/day14/求结果.py" />
-    <entry file="file://$PROJECT_DIR$/day14/一行代码数值交换.py" />
-    <entry file="file://$PROJECT_DIR$/day12/select_FTP/server/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="168">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/类装饰器/有参.py">
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/线程锁/同步锁.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state relative-caret-position="135">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/类装饰器/testde.py">
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/线程锁/死锁.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-756" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符优先级测试/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="-392">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/描述符3.py">
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/信号量/semaphoreTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="252">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/类装饰器/无参.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/描述符2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/描述符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1244044897/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20636">
-          <caret line="737" column="21" selection-start-line="737" selection-start-column="21" selection-end-line="737" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符练习/回顾portery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符优先级测试/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/描述符4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/描述符优先级.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符优先级测试/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/example2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1568">
-          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/example4.py">
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/Timer定时器/timer01.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/example3.py">
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/进程/事件-event/eventT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        <state relative-caret-position="196">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/类型限制.py">
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/同步条件-event/example02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-576" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/函数与类属性优先级测试.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符的应用/函数与数据描述符的优先级测试.py">
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/同步条件-event/总结">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/同步条件-event/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/条件变量同步/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/条件变量同步/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/线程通信/队列/LifoQueue先进后出.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/线程通信/队列/Priority优先级别队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/futures模块/线程池异步调用">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/futures模块/进程池异步调用.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/futures模块/map用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/futures模块/总结">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/线程通信/队列/Queue先进先出.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/线程通信/队列/总结">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/线程通信/队列/Queue注意.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符优先级测试/类属性大于数据描述符.py">
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/futures模块/回调函数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        <state relative-caret-position="-504">
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述加类装饰器.py">
+    <entry file="file://$PROJECT_DIR$/day11/协程/Gevent.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/协程/Gevent02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/协程/Gevent应用/爬虫.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/python/Anaconda3/Lib/site-packages/gevent/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="161">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符练习/自定制portery2.py">
+    <entry file="file://$PROJECT_DIR$/day11/进程与线程/线程/创建线程-2种方式/直接调用.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+        <state relative-caret-position="-56">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符练习/自定制描述符3.py">
+    <entry file="file://D:/python/Anaconda3/Lib/site-packages/gevent/greenlet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        <state relative-caret-position="5418">
+          <caret line="341" column="64" selection-start-line="341" selection-start-column="58" selection-end-line="341" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符自定制/实现classmethod.py">
+    <entry file="file://$PROJECT_DIR$/day12/selector模块/severT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="-504">
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符练习/自定制portery.py">
+    <entry file="file://$PROJECT_DIR$/day12/selector模块应用/client.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/selector模块/server00.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="838">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        <state relative-caret-position="224">
+          <caret line="8" column="11" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day08/描述符练习/自定制classmethod.py">
+    <entry file="file://$PROJECT_DIR$/day11/协程/yield并发执行.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        <state relative-caret-position="264">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/并发编程练习/使用gevent创建协程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/协程/Gevent同步异步.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/selector模块应用/ftp_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1764" />
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Anaconda3/Lib/site-packages/sqlalchemy/engine/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="2258" column="8" selection-start-line="2258" selection-start-column="8" selection-end-line="2258" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLAlchemy学习/demo执行原生语句.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Anaconda3/Lib/site-packages/sqlalchemy/ext/declarative/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="774" column="57" selection-start-line="774" selection-start-column="49" selection-end-line="774" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLAlchemy学习/原生02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLAlchemy学习/使用ORM/基本操作/增加数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLAlchemy学习/使用ORM/创建数据表/signleTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLAlchemy学习/使用ORM/创建数据表/创建表多对多.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1589">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLAlchemy学习/使用ORM/基本操作/基本增删改查.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#45#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/redislist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLAlchemy学习/使用ORM/创建数据表/创建表一对多.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery学习/celeryServer/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery学习/celeryServer/demo01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/redishash.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/raven/contrib/celery/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery学习/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demotest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>

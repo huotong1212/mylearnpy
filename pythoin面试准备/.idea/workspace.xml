@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bd52cc6-c2f7-46ae-8145-78a4470e1350" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../code/SQLAlchemy学习/demo执行原生语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/SQLAlchemy学习/使用ORM/创建数据表/signleTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/SQLAlchemy学习/使用ORM/创建数据表/创建表一对多.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/SQLAlchemy学习/使用ORM/创建数据表/创建表多对多.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/SQLAlchemy学习/使用ORM/基本操作/基本增删改查.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/SQLAlchemy学习/使用ORM/基本操作/增加数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/SQLAlchemy学习/原生02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/celery学习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/celery学习/celeryServer/demo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/day11/协程/yield并发执行.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/day11/进程与线程/线程/条件变量同步/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/day13/并发编程练习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/day13/并发编程练习/使用gevent创建协程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/demotest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythoin面试准备.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/pyMysql模块/pymysql模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/pyMysql模块/删.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/pyMysql模块/增删改查.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/pyMysql模块/改.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/pyMysql模块/查.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/pyMysql模块/查02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/常用方法测试/dict含义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/常用方法测试/is含义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/并发编程练习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/并发编程练习/使用gevent创建协程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/测试面向对象/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/测试面向对象/superPython3用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/测试面向对象/super用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/测试面向对象/super用法02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/测试面向对象/super用法4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python之函数/装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitdemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/.idea/redis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/dump.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/redishash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单例设计模式/使用new实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单例设计模式/使用类方法实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单例设计模式/使用装饰器实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单例设计模式/单例.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序算法/.ipynb_checkpoints/冒泡排序和插入排序-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序算法/二分法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序算法/交换变量值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序算法/冒泡排序和插入排序.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序算法/排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海龟绘图/tree01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/生成器与迭代器/iterable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象测试/init方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象测试/new和init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象测试/函数参数的命名空间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象测试/默认参数的坑.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/ip转为二进制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/一行代码数值交换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/命名空间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/命名空间02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/求结果.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/深浅拷贝.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/进制转换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/untitled1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/day04/configparse模块/configparse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/day04/configparse模块/configparse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/day11/进程与线程/线程/创建线程-2种方式/直接调用.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/day11/进程与线程/线程/创建线程-2种方式/直接调用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/day11/进程与线程/线程/同步条件-event/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/day11/进程与线程/线程/同步条件-event/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/day11/进程与线程/线程/条件变量同步/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/day11/进程与线程/线程/条件变量同步/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/day11/进程与线程/线程/线程锁/同步锁.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/day11/进程与线程/线程/线程锁/同步锁.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/day11/进程与线程/进程/守护进程/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/day11/进程与线程/进程/守护进程/test02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/day11/进程与线程/进程/守护进程/守护进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/day11/进程与线程/进程/守护进程/守护进程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/day11/进程与线程/进程/进程池/进程池异步调用.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/day11/进程与线程/进程/进程池/进程池异步调用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/day13/测试面向对象/super用法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/day13/测试面向对象/super用法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../django_demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_site/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../django_site/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/.idea/rabbitdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/.idea/rabbitdemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/direct_receive.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/direct_receive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/direct_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/direct_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/fanout_receive.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/fanout_receive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/fanout_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/fanout_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/receive1.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/receive1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/recv_msg_safe.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/recv_msg_safe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/rpc_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/rpc_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/rpc_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/rpc_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/send_msg_safe.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/send_msg_safe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/sender1.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/sender1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/topic_receive.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/topic_receive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitdemo/topic_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/topic_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/redishash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/redislist.py" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redislist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/redisop.py" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redisop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/redispipline.py" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redispipline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webcrawler/day99/2.自定义Scrapy框架.py" beforeDir="false" afterPath="$PROJECT_DIR$/../webcrawler/day99/2.自定义Scrapy框架.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pythoin$redishash.coverage" NAME="redishash Coverage Results" MODIFIED="1561610070380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+    <SUITE FILE_PATH="coverage/pythoin$iterable.coverage" NAME="iterable Coverage Results" MODIFIED="1561561388734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/生成器与迭代器" />
+    <SUITE FILE_PATH="coverage/pythoin$02.coverage" NAME="命名空间02 Coverage Results" MODIFIED="1561428325441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试题" />
+    <SUITE FILE_PATH="coverage/pythoin$dict.coverage" NAME="dict含义 Coverage Results" MODIFIED="1561436842647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13/dict测试" />
+    <SUITE FILE_PATH="coverage/pythoin$dict__1_.coverage" NAME="dict含义 (1) Coverage Results" MODIFIED="1561440921284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13/常用方法测试" />
+    <SUITE FILE_PATH="coverage/pythoin$pythoin.coverage" NAME="pythoin面试准备 Coverage Results" MODIFIED="1561558924791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/pythoin$redisop.coverage" NAME="redisop Coverage Results" MODIFIED="1561621399311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+    <SUITE FILE_PATH="coverage/pythoin$.coverage" NAME="二分法 Coverage Results" MODIFIED="1561466786486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序算法" />
+    <SUITE FILE_PATH="coverage/pythoin$new.coverage" NAME="使用new实现 Coverage Results" MODIFIED="1561444701919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单例设计模式" />
+    <SUITE FILE_PATH="coverage/pythoin$is.coverage" NAME="is含义 Coverage Results" MODIFIED="1561439333959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13/常用方法测试" />
+    <SUITE FILE_PATH="coverage/pythoin$newinit.coverage" NAME="new和init Coverage Results" MODIFIED="1561429635580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象测试" />
+    <SUITE FILE_PATH="coverage/pythoin$tree01.coverage" NAME="tree01 Coverage Results" MODIFIED="1561558881569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/海龟绘图" />
+    <SUITE FILE_PATH="coverage/pythoin$redislist.coverage" NAME="redislist Coverage Results" MODIFIED="1561610163037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitdemo/sender1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitdemo/receive1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitdemo/send_msg_safe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rabbitdemo/recv_msg_safe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitdemo/fanout_send.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitdemo/fanout_receive.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>b</find>
+      <find>c</find>
+      <find>new</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>c</replace>
+      <replace>d</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/面向对象测试/new和init.py" />
+        <option value="$PROJECT_DIR$/day13/并发编程练习/__init__.py" />
+        <option value="$PROJECT_DIR$/day13/dict测试/dict含义.py" />
+        <option value="$PROJECT_DIR$/day13/常用方法测试/is含义.py" />
+        <option value="$PROJECT_DIR$/面向对象测试/init方法.py" />
+        <option value="$PROJECT_DIR$/day13/常用方法测试/dict含义.py" />
+        <option value="$PROJECT_DIR$/面向对象测试/函数参数的命名空间.py" />
+        <option value="$PROJECT_DIR$/面向对象测试/默认参数的坑.py" />
+        <option value="$PROJECT_DIR$/单例设计模式/单例.ipynb" />
+        <option value="$PROJECT_DIR$/单例设计模式/使用new实现.py" />
+        <option value="$PROJECT_DIR$/单例设计模式/使用类方法实现.py" />
+        <option value="$PROJECT_DIR$/排序算法/冒泡排序和插入排序.ipynb" />
+        <option value="$PROJECT_DIR$/排序算法/交换变量值.py" />
+        <option value="$PROJECT_DIR$/排序算法/排序.py" />
+        <option value="$PROJECT_DIR$/排序算法/二分法.py" />
+        <option value="$PROJECT_DIR$/海龟绘图/tree01.py" />
+        <option value="$PROJECT_DIR$/排序算法/.ipynb_checkpoints/冒泡排序和插入排序-checkpoint.ipynb" />
+        <option value="$PROJECT_DIR$/生成器与迭代器/iterable.py" />
+        <option value="$PROJECT_DIR$/单例设计模式/使用装饰器实现.py" />
+        <option value="$PROJECT_DIR$/redis/redishash.py" />
+        <option value="$PROJECT_DIR$/redis/redislist.py" />
+        <option value="$PROJECT_DIR$/redis/redisop.py" />
+        <option value="$PROJECT_DIR$/rabbitdemo/send_msg_safe.py" />
+        <option value="$PROJECT_DIR$/rabbitdemo/recv_msg_safe.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="640" />
+    <option name="height" value="345" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythoin面试准备" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythoin面试准备" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythoin面试准备" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythoin面试准备" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\pythoin面试准备" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\pythoin面试准备" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.redisop">
+    <configuration name="pythoin面试准备" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="pythoin面试准备" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="交换变量值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythoin面试准备" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序算法/交换变量值.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="使用类方法实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythoin面试准备" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/单例设计模式" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/单例设计模式/使用类方法实现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythoin面试准备" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序算法/排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="二分法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythoin面试准备" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序算法/二分法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iterable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythoin面试准备" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/生成器与迭代器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/生成器与迭代器/iterable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="redishash" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythoin面试准备" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redis/redishash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="redislist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythoin面试准备" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redis/redislist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="redisop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythoin面试准备" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redis/redisop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tree01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythoin面试准备" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/海龟绘图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/海龟绘图/tree01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.redisop" />
+        <item itemvalue="Python.redislist" />
+        <item itemvalue="Python.redishash" />
+        <item itemvalue="Python.iterable" />
+        <item itemvalue="Python.tree01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bd52cc6-c2f7-46ae-8145-78a4470e1350" name="Default Changelist" comment="" />
+      <created>1561427889176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561427889176</updated>
+      <workItem from="1561427890602" duration="18556000" />
+      <workItem from="1561558790130" duration="2526000" />
+      <workItem from="1561608963911" duration="5760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26842000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1849361" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3243626" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="aiXcoder" order="3" side_tool="true" />
+      <window_info anchor="right" id="Remote Host" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18224613" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="aiXcoder" order="3" side_tool="true" />
+      <window_info anchor="right" id="Remote Host" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day13/并发编程练习/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试题/命名空间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象测试/new和init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试题/命名空间02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试题/进制转换.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象测试/init方法.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/常用方法测试/is含义.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/常用方法测试/dict含义.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象测试/默认参数的坑.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象测试/函数参数的命名空间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Anaconda3/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="754" selection-start-line="754" selection-end-line="754" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单例设计模式/使用new实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/jupyter/runtime/nbserver-13444-open.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序算法/.ipynb_checkpoints/冒泡排序和插入排序-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/海龟绘图/tree01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#109#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1244044897/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4302">
+          <caret line="3621" column="6" selection-start-line="3621" selection-start-column="6" selection-end-line="3621" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单例设计模式/使用装饰器实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序算法/冒泡排序和插入排序.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序算法/排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/生成器与迭代器/iterable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序算法/二分法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序算法/交换变量值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单例设计模式/使用类方法实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单例设计模式/单例.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/redishash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="39" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/redislist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/redispipline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/redisop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Anaconda3/Lib/site-packages/redis/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitdemo/sender1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitdemo/receive1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitdemo/fanout_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitdemo/fanout_receive.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitdemo/send_msg_safe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitdemo/recv_msg_safe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,4 +1,6 @@
 class A():
+    # a = A()
+
     def go(self):
         print ("go A go!")
     def stop(self):

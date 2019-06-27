@@ -20,11 +20,11 @@ for i in range(100):
     t.start()
     thread_list.append(t)
 
-print('---------------before join') # my
-time.sleep(2) # my
-for i,t in enumerate(thread_list): #等待所有线程执行完毕
-    t.join()
-    if i > 50: # my
-        break # my
-
-print('final num:', num )
+# print('---------------before join') # my
+# time.sleep(2) # my
+# for i,t in enumerate(thread_list): #等待所有线程执行完毕
+#     t.join()
+#     if i > 50: # my
+#         break # my
+#
+# print('final num:', num )

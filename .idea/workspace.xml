@@ -1,229 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/code/day07/重写getattr.py" line="13" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/code/day07/重写getattr.py" line="14" mnemonic="9" />
     <bookmark url="file://$PROJECT_DIR$/code/day07/枚举Enum.py" line="20" />
     <bookmark url="file://$PROJECT_DIR$/code/day10/ftp客户端/ftp_client.py" line="102" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed9ca524-a56c-40e1-ab99-342e73bb0a99" name="Default Changelist" comment="ruin git init again">
-      <change afterPath="$PROJECT_DIR$/django_demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_site/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/redishash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/redislist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/redisop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/redispipline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/.idea/webcrawler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/day96.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/02/029ad61d29627eb1894218353c897c8f44d6fdbc/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/19/19a788e456d6db2383e0ab1b336dec9b464aa1af/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/27/274985609b1830281f03fec17808462ec8352998/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/37/37fdc7f1062425712415ddf68f36e61ef4528132/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/48/4887737a4fac4463adff99ed27d6989b55db475c/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/4d/4d1d8398267bc73fcbe48b8bbefe270bba20eab1/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/5f/5ff18db74818389399c6d2ef44fac3c366e9b86e/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/64/64e80d6d681d4e310328ba88f3a560a125f04632/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/68/6888685b778ddf24964c6faa85a0777a5f17594d/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/7140851f1913b37067d919ab11c38ab39a46ab29/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/71/71cd31896b1b4b9fed6c837ce22ad81d7d7a3581/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/73/7338077d4d244c3ebc79a83fb678f81e09d7ff0e/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/81/813c4e18c94bb01cb09d1e41ebbf1ddfd8eeeda7/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/87/8742f4e3411a97b9ba5a5d1ef09a9c3ddadd6c5b/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/92/92d184f13d0cdbd4d75f4dc9c6b7bca0d326d322/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/93/93e7d5bebfd43d58a98b30af921e8bbf14347f51/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/99/99d81e29f1a717150df991558be03133d1fbf030/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9d/9d2d564ca68174150a34e42ac80ae2b280d82ea6/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/9e/9eca46a7d9d5663339c940e7a7000809bc198eb7/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/a2/a2f198c766fa7adce15d7e74e7fc559228afd35f/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ac/ac41811be19bb70660ffcc56bc3bf978a472040e/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b4/b4cee0b528272c1bc3772f319251cc69ae93ecec/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/b8/b89c71220cb654f37a6e250d583c19d6e75f3a8e/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ce/ce5cef7a736bfde0f3dcd10919fd305ee09c27c4/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/ea/ea4c0a17db8ed5e5392c25672882418b7cc5fb27/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fa/fab80a33a85ea2c0d759c7fb91d878898f7caf61/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/pickled_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/request_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/request_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/response_body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/.scrapy/httpcache/chouti/fe/fe2b5887168157795cb1580d9c7983a76ca3aacf/response_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/a.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/commands/crawlall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/duplication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/extensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/day96/spiders/cnblogs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/news.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day96/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/day99.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/1.前戏.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/2.自定义Scrapy框架.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/3.上午简单回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/4.TinyScrapy.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/4.TinyScrapy/engine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/4.TinyScrapy/spider/chouti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/4.TinyScrapy/spider/cnblogs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/day99/4.TinyScrapy/test.py" afterDir="false" />
+    <list default="true" id="ed9ca524-a56c-40e1-ab99-342e73bb0a99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code/SQLAlchemy学习/demo执行原生语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/SQLAlchemy学习/使用ORM/创建数据表/signleTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/SQLAlchemy学习/使用ORM/创建数据表/创建表一对多.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/SQLAlchemy学习/使用ORM/创建数据表/创建表多对多.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/SQLAlchemy学习/使用ORM/基本操作/基本增删改查.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/SQLAlchemy学习/使用ORM/基本操作/增加数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/SQLAlchemy学习/原生02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/celery学习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/celery学习/celeryServer/demo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/day11/协程/yield并发执行.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/day11/进程与线程/线程/条件变量同步/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/day13/并发编程练习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/day13/并发编程练习/使用gevent创建协程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/demotest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/.idea/pythoin面试准备.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/pyMysql模块/pymysql模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/pyMysql模块/删.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/pyMysql模块/增删改查.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/pyMysql模块/改.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/pyMysql模块/查.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/pyMysql模块/查02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/常用方法测试/dict含义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/常用方法测试/is含义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/并发编程练习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/并发编程练习/使用gevent创建协程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/测试面向对象/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/测试面向对象/superPython3用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/测试面向对象/super用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/测试面向对象/super用法02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/day13/测试面向对象/super用法4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/python之函数/装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/redis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/单例设计模式/使用new实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/单例设计模式/使用类方法实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/单例设计模式/使用装饰器实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/单例设计模式/单例.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/排序算法/二分法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/排序算法/交换变量值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/排序算法/冒泡排序和插入排序.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/排序算法/排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/海龟绘图/tree01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/生成器与迭代器/iterable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面向对象测试/init方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面向对象测试/new和init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面向对象测试/函数参数的命名空间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面向对象测试/默认参数的坑.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面试题/ip转为二进制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面试题/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面试题/一行代码数值交换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面试题/命名空间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面试题/命名空间02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面试题/栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面试题/求结果.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面试题/深浅拷贝.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoin面试准备/面试题/进制转换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/day04/configparse模块/configparse.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day04/configparse模块/configparse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/线程/创建线程-2种方式/直接调用.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/线程/创建线程-2种方式/直接调用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/线程/同步条件-event/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/线程/同步条件-event/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/线程/条件变量同步/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/线程/条件变量同步/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/线程/线程锁/同步锁.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/线程/线程锁/同步锁.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/test02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/守护进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/守护进程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/day11/进程与线程/进程/进程池/进程池异步调用.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day11/进程与线程/进程/进程池/进程池异步调用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/day13/测试面向对象/super用法.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/day13/测试面向对象/super用法.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django_demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_demo/form_sample/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_demo/form_sample/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_demo/form_sample/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_demo/form_sample/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_site/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django_site/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/.idea/rabbitdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/.idea/rabbitdemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/direct_receive.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/direct_receive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/direct_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/direct_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/fanout_receive.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/fanout_receive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/fanout_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/fanout_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/receive1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/receive1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/recv_msg_safe.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/recv_msg_safe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/rpc_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/rpc_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/rpc_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/rpc_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/send_msg_safe.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/send_msg_safe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/sender1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/sender1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/topic_receive.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/topic_receive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/topic_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/rabbitdemo/topic_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/redishash.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/redis/redishash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/redislist.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/redis/redislist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/redisop.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/redis/redisop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/redispipline.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoin面试准备/redis/redispipline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webcrawler/day99/2.自定义Scrapy框架.py" beforeDir="false" afterPath="$PROJECT_DIR$/webcrawler/day99/2.自定义Scrapy框架.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -241,12 +123,15 @@
     <SUITE FILE_PATH="coverage/untitled1$tcp_s.coverage" NAME="tcp_s Coverage Results" MODIFIED="1555915701608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day09/粘包" />
     <SUITE FILE_PATH="coverage/untitled1$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1555923915519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day09/粘包解决/solvation02" />
     <SUITE FILE_PATH="coverage/untitled1$call.coverage" NAME="重写call方法 Coverage Results" MODIFIED="1555503658544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day07" />
+    <SUITE FILE_PATH="coverage/untitled1$pytest_in__py.coverage" NAME="pytest in 装饰器.py Coverage Results" MODIFIED="1560168182039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoin面试准备/python之函数" />
     <SUITE FILE_PATH="coverage/untitled1$property.coverage" NAME="自治property Coverage Results" MODIFIED="1555656998507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day08/描述符自定制" />
     <SUITE FILE_PATH="coverage/untitled1$md5file.coverage" NAME="md5file Coverage Results" MODIFIED="1555121113307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day04/hashlib模块" />
     <SUITE FILE_PATH="coverage/untitled1$tcp_c2.coverage" NAME="tcp_c2 Coverage Results" MODIFIED="1555915877243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day09/粘包" />
+    <SUITE FILE_PATH="coverage/untitled1$super02.coverage" NAME="super用法02 Coverage Results" MODIFIED="1560173170525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day13/测试面向对象" />
     <SUITE FILE_PATH="coverage/untitled1$demo.coverage" NAME="demo Coverage Results" MODIFIED="1556355835057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/进程与线程/进程/Manage共享数据" />
     <SUITE FILE_PATH="coverage/untitled1$classmethod.coverage" NAME="实现classmethod Coverage Results" MODIFIED="1555662268927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day08/描述符自定制" />
     <SUITE FILE_PATH="coverage/untitled1$1.coverage" NAME="1 Coverage Results" MODIFIED="1554983144298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$4.coverage" NAME="描述符4 Coverage Results" MODIFIED="1560242857946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day08/描述符的应用" />
     <SUITE FILE_PATH="coverage/untitled1$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1555499466271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day05" />
     <SUITE FILE_PATH="coverage/untitled1$exceptionF.coverage" NAME="exceptionF Coverage Results" MODIFIED="1555484559658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day08/异常处理" />
     <SUITE FILE_PATH="coverage/untitled1$Gevent.coverage" NAME="Gevent同步异步 Coverage Results" MODIFIED="1556435003381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/协程" />
@@ -255,6 +140,7 @@
     <SUITE FILE_PATH="coverage/untitled1$json.coverage" NAME="json模块 Coverage Results" MODIFIED="1555050335045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day04/modules" />
     <SUITE FILE_PATH="coverage/untitled1$tcp_c.coverage" NAME="tcp_c Coverage Results" MODIFIED="1555915716872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day09/粘包" />
     <SUITE FILE_PATH="coverage/untitled1$demo03.coverage" NAME="demo03 Coverage Results" MODIFIED="1556367558851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/进程与线程/进程/进程池/回调函数" />
+    <SUITE FILE_PATH="coverage/untitled1$gsdattr.coverage" NAME="gsdattr方法 Coverage Results" MODIFIED="1560240161209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day07" />
     <SUITE FILE_PATH="coverage/untitled1$udp.coverage" NAME="udp客户端 Coverage Results" MODIFIED="1555764133125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day09/udp协议" />
     <SUITE FILE_PATH="coverage/untitled1$ftp_server.coverage" NAME="ftp_server Coverage Results" MODIFIED="1556524805999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day12/selector模块应用" />
     <SUITE FILE_PATH="coverage/untitled1$Gevent02.coverage" NAME="Gevent02 Coverage Results" MODIFIED="1556432751678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/协程" />
@@ -276,17 +162,19 @@
     <SUITE FILE_PATH="coverage/untitled1$socket01.coverage" NAME="socket01 Coverage Results" MODIFIED="1555748545812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day09/socket通信" />
     <SUITE FILE_PATH="coverage/untitled1$time.coverage" NAME="time模块 Coverage Results" MODIFIED="1554992726927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day04/modules" />
     <SUITE FILE_PATH="coverage/untitled1$JoinableQueueT.coverage" NAME="JoinableQueueT Coverage Results" MODIFIED="1556354394409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型" />
-    <SUITE FILE_PATH="coverage/untitled1$02.coverage" NAME="查02 Coverage Results" MODIFIED="1556606734703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day13/pyMysql模块" />
+    <SUITE FILE_PATH="coverage/untitled1$02.coverage" NAME="命名空间02 Coverage Results" MODIFIED="1559920035815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day14" />
     <SUITE FILE_PATH="coverage/untitled1$type.coverage" NAME="使用type Coverage Results" MODIFIED="1555481517765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day07" />
     <SUITE FILE_PATH="coverage/untitled1$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1557839271924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程" />
     <SUITE FILE_PATH="coverage/untitled1$logging.coverage" NAME="logging模块 Coverage Results" MODIFIED="1555069017546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day04/modules" />
-    <SUITE FILE_PATH="coverage/untitled1$test.coverage" NAME="test Coverage Results" MODIFIED="1557839059095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程" />
+    <SUITE FILE_PATH="coverage/untitled1$test.coverage" NAME="test Coverage Results" MODIFIED="1560234843257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day03" />
     <SUITE FILE_PATH="coverage/untitled1$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1555997022112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day10/socket实现并发" />
     <SUITE FILE_PATH="coverage/untitled1$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1555138348965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day06/面向对象高阶编程" />
     <SUITE FILE_PATH="coverage/untitled1$client01.coverage" NAME="client01 Coverage Results" MODIFIED="1555997028469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day10/socket实现并发" />
+    <SUITE FILE_PATH="coverage/untitled1$super4.coverage" NAME="super用法4 Coverage Results" MODIFIED="1560172534549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day13/测试面向对象" />
     <SUITE FILE_PATH="coverage/untitled1$pytest_in_decorator2_py.coverage" NAME="pytest in decorator2.py Coverage Results" MODIFIED="1555648303755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day03" />
     <SUITE FILE_PATH="coverage/untitled1$_.coverage" NAME="线程-内存空间 Coverage Results" MODIFIED="1556355402083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/进程与线程/线程" />
     <SUITE FILE_PATH="coverage/untitled1$str.coverage" NAME="重写str Coverage Results" MODIFIED="1555501992842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day07" />
+    <SUITE FILE_PATH="coverage/untitled1$2.coverage" NAME="描述符2 Coverage Results" MODIFIED="1560242608934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day08/描述符的应用" />
     <SUITE FILE_PATH="coverage/untitled1$instance01.coverage" NAME="instance01 Coverage Results" MODIFIED="1556353031607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型" />
     <SUITE FILE_PATH="coverage/untitled1$pymysql.coverage" NAME="pymysql模块 Coverage Results" MODIFIED="1556626745434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day13/pyMysql模块" />
     <SUITE FILE_PATH="coverage/untitled1$describleTest.coverage" NAME="describleTest Coverage Results" MODIFIED="1555510630182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day05/描述符" />
@@ -294,15 +182,19 @@
     <SUITE FILE_PATH="coverage/untitled1$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1555923925889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day09/粘包解决/solvation02" />
     <SUITE FILE_PATH="coverage/untitled1$os.coverage" NAME="os递归删除文件夹 Coverage Results" MODIFIED="1554989197609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day04/modules" />
     <SUITE FILE_PATH="coverage/untitled1$multi_thread.coverage" NAME="multi_thread Coverage Results" MODIFIED="1556276459261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/进程与线程/线程/GIL" />
+    <SUITE FILE_PATH="coverage/untitled1$super.coverage" NAME="super用法 Coverage Results" MODIFIED="1560173450633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day13/测试面向对象" />
+    <SUITE FILE_PATH="coverage/untitled1$superPython3.coverage" NAME="superPython3用法 Coverage Results" MODIFIED="1560234899343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day13/测试面向对象" />
     <SUITE FILE_PATH="coverage/untitled1$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1555138780202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day06/面向对象高阶编程" />
-    <SUITE FILE_PATH="coverage/untitled1$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1557838083599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/进程与线程/线程/守护线程和join" />
+    <SUITE FILE_PATH="coverage/untitled1$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1560168316609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day03" />
     <SUITE FILE_PATH="coverage/untitled1$animal.coverage" NAME="animal Coverage Results" MODIFIED="1555138950800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day05" />
     <SUITE FILE_PATH="coverage/untitled1$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1556524816237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day12/selector模块应用" />
     <SUITE FILE_PATH="coverage/untitled1$severT.coverage" NAME="severT Coverage Results" MODIFIED="1556530884686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day12/selector模块" />
-    <SUITE FILE_PATH="coverage/untitled1$getattr.coverage" NAME="重写getattr Coverage Results" MODIFIED="1555478919851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day07" />
+    <SUITE FILE_PATH="coverage/untitled1$init.coverage" NAME="init方法 Coverage Results" MODIFIED="1560155899857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoin面试准备/面向对象测试" />
     <SUITE FILE_PATH="coverage/untitled1$testde.coverage" NAME="testde Coverage Results" MODIFIED="1555652525159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day08/类装饰器" />
+    <SUITE FILE_PATH="coverage/untitled1$getattr.coverage" NAME="重写getattr Coverage Results" MODIFIED="1560240225601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day07" />
+    <SUITE FILE_PATH="coverage/untitled1$3.coverage" NAME="描述符3 Coverage Results" MODIFIED="1560242796010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day08/描述符的应用" />
     <SUITE FILE_PATH="coverage/untitled1$EnumTest.coverage" NAME="EnumTest Coverage Results" MODIFIED="1555481169665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day07" />
-    <SUITE FILE_PATH="coverage/untitled1$.coverage" NAME="守护进程 Coverage Results" MODIFIED="1557839021162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程" />
+    <SUITE FILE_PATH="coverage/untitled1$.coverage" NAME="描述符 Coverage Results" MODIFIED="1560243087450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day08/描述符的应用" />
     <SUITE FILE_PATH="coverage/untitled1$__1_.coverage" NAME="不加锁 (1) Coverage Results" MODIFIED="1556266337357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/进程与线程/进程/进程同步锁/当共享同一文件时" />
     <SUITE FILE_PATH="coverage/untitled1$tcp_s2.coverage" NAME="tcp_s2 Coverage Results" MODIFIED="1555915837042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day09/粘包" />
     <SUITE FILE_PATH="coverage/untitled1$GreenletT.coverage" NAME="GreenletT Coverage Results" MODIFIED="1556425298247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/day11/协程" />
@@ -327,26 +219,90 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/day03/decorator2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+            <state relative-caret-position="448">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <element signature="e#24#37#0" expanded="true" />
+                <element signature="e#1#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py.bak">
+        <entry file="file://$PROJECT_DIR$/pythoin面试准备/redis/redishash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythoin面试准备/redis/redislist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-504" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythoin面试准备/redis/redisop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythoin面试准备/rabbitdemo/direct_send.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/day13/并发编程练习/使用gevent创建协程.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/cnblogs.py">
+        <entry file="file://$PROJECT_DIR$/code/day08/描述符的应用/描述符3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/day08/描述符的应用/描述符4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/day07/使用type.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/day07/gsdattr方法.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -402,27 +358,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/code/day12/selector模块/server00.py" />
-        <option value="$PROJECT_DIR$/code/day12/selector模块应用.py" />
-        <option value="$PROJECT_DIR$/code/day12/selector模块/client.py" />
-        <option value="$PROJECT_DIR$/code/day12/selector模块应用/client.py" />
-        <option value="$PROJECT_DIR$/code/day12/selector模块/severT.py" />
-        <option value="$PROJECT_DIR$/code/day13/pymysql模块.py" />
-        <option value="$PROJECT_DIR$/code/day13/pyMysql模块/pymysql模块.py" />
-        <option value="$PROJECT_DIR$/code/day13/pyMysql模块/删.py" />
-        <option value="$PROJECT_DIR$/code/day13/pyMysql模块/增删改查.py" />
-        <option value="$PROJECT_DIR$/code/day13/pyMysql模块/改.py" />
-        <option value="$PROJECT_DIR$/code/day13/pyMysql模块/查.py" />
-        <option value="$PROJECT_DIR$/code/day13/pyMysql模块/查02.py" />
-        <option value="$PROJECT_DIR$/Django学习/day01/helloDjango.py" />
-        <option value="$PROJECT_DIR$/django_site/templates/index.html" />
-        <option value="$PROJECT_DIR$/django_site/templates/register.html" />
-        <option value="$PROJECT_DIR$/django_site/templates/index2.html" />
-        <option value="$PROJECT_DIR$/django_site/blog/templatetags/my_tags.py" />
-        <option value="$PROJECT_DIR$/django_site/templates/login.html" />
-        <option value="$PROJECT_DIR$/django_site/templates/base.html" />
-        <option value="$PROJECT_DIR$/django_site/templates/inheitbase.py" />
-        <option value="$PROJECT_DIR$/django_site/templates/inheirtBase.html" />
         <option value="$PROJECT_DIR$/django_site/templates/baseIndex.html" />
         <option value="$PROJECT_DIR$/django_site/templates/student.html" />
         <option value="$PROJECT_DIR$/django_site/django_site/__init__.py" />
@@ -453,6 +388,27 @@
         <option value="$PROJECT_DIR$/code/day12/selector模块应用/ftp_server.py" />
         <option value="$PROJECT_DIR$/redis/redisop.py" />
         <option value="$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py" />
+        <option value="$PROJECT_DIR$/webcrawler/day96/day96/middlewares.py" />
+        <option value="$PROJECT_DIR$/webcrawler/ptmJS/simplebook.py" />
+        <option value="$PROJECT_DIR$/code/day14/深浅拷贝.py" />
+        <option value="$PROJECT_DIR$/code/day14/test.py" />
+        <option value="$PROJECT_DIR$/code/day14/命名空间.py" />
+        <option value="$PROJECT_DIR$/code/day14/命名空间02.py" />
+        <option value="$PROJECT_DIR$/code/day14/栈.py" />
+        <option value="$PROJECT_DIR$/pythoin面试准备/面向对象测试/init方法.py" />
+        <option value="$PROJECT_DIR$/code/day03/test.py" />
+        <option value="$PROJECT_DIR$/pythoin面试准备/python之函数/装饰器.py" />
+        <option value="$PROJECT_DIR$/code/day13/测试面向对象/super用法4.py" />
+        <option value="$PROJECT_DIR$/code/day13/测试面向对象/super用法02.py" />
+        <option value="$PROJECT_DIR$/code/day13/测试面向对象/superPython3用法.py" />
+        <option value="$PROJECT_DIR$/code/day07/重写getattr.py" />
+        <option value="$PROJECT_DIR$/code/day07/gsdattr方法.py" />
+        <option value="$PROJECT_DIR$/code/day08/描述符的应用/描述符2.py" />
+        <option value="$PROJECT_DIR$/code/day08/描述符的应用/描述符3.py" />
+        <option value="$PROJECT_DIR$/code/day08/描述符的应用/描述符4.py" />
+        <option value="$PROJECT_DIR$/code/day08/描述符的应用/描述符.py" />
+        <option value="$PROJECT_DIR$/code/day13/测试面向对象/super用法.py" />
+        <option value="$PROJECT_DIR$/pythoin面试准备/redis/redisop.py" />
       </list>
     </option>
   </component>
@@ -470,6 +426,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -480,41 +437,17 @@
             <path>
               <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled1" type="462c0819:PsiDirectoryNode" />
-              <item name="webcrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled1" type="462c0819:PsiDirectoryNode" />
-              <item name="webcrawler" type="462c0819:PsiDirectoryNode" />
-              <item name="day96" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
-              <item name="webcrawler" type="462c0819:PsiDirectoryNode" />
-              <item name="day96" type="462c0819:PsiDirectoryNode" />
-              <item name=".scrapy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
-              <item name="webcrawler" type="462c0819:PsiDirectoryNode" />
-              <item name="day96" type="462c0819:PsiDirectoryNode" />
-              <item name="day96" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
-              <item name="webcrawler" type="462c0819:PsiDirectoryNode" />
-              <item name="day96" type="462c0819:PsiDirectoryNode" />
-              <item name="day96" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="pythoin面试准备" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -524,7 +457,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -545,11 +478,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\pythoin面试准备" />
       <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site\blog" />
       <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site" />
       <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\django_site\templates\static" />
-      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\day13\pyMysql模块" />
-      <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\code\day11\进程与线程\进程\进程池" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\PycharmProjects\untitled1\rabbitdemo" />
@@ -571,8 +504,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test02">
-    <configuration name="守护进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.example">
+    <configuration name="描述符" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -580,12 +513,157 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day08/描述符的应用" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/守护进程.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day08/描述符的应用/描述符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="描述符2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day08/描述符的应用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day08/描述符的应用/描述符2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="描述符3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day08/描述符的应用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day08/描述符的应用/描述符3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="描述符4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day08/描述符的应用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day08/描述符的应用/描述符4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="有参" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day08/类装饰器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day08/类装饰器/有参.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="栈" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day14/栈.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="命名空间" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day14/命名空间.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="深浅拷贝" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day14/深浅拷贝.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -704,28 +782,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="有参" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day08/类装饰器" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day08/类装饰器/有参.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -756,12 +812,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day11/进程与线程/线程/同步条件-event" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day08/描述符的应用" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day11/进程与线程/线程/同步条件-event/example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day08/描述符的应用/example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -770,7 +826,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="重写getattr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -778,56 +834,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day11/进程与线程/线程/守护线程和join" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day11/进程与线程/线程/守护线程和join/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/test02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/day07/重写getattr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -837,19 +849,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.描述符" />
+      <item itemvalue="Python.重写getattr" />
+      <item itemvalue="Python.描述符2" />
+      <item itemvalue="Python.描述符3" />
+      <item itemvalue="Python.描述符4" />
       <item itemvalue="Python.example" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.test02" />
-      <item itemvalue="Python.守护进程" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.守护进程" />
-        <item itemvalue="Python.test02" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.example" />
+        <item itemvalue="Python.描述符4" />
+        <item itemvalue="Python.描述符3" />
+        <item itemvalue="Python.描述符2" />
+        <item itemvalue="Python.重写getattr" />
       </list>
     </recent_temporary>
   </component>
@@ -912,7 +925,21 @@
       <workItem from="1559227871805" duration="1198000" />
       <workItem from="1559278877114" duration="108000" />
       <workItem from="1559305283234" duration="1316000" />
-      <workItem from="1559383204993" duration="253000" />
+      <workItem from="1559383204993" duration="4242000" />
+      <workItem from="1559836180065" duration="250000" />
+      <workItem from="1559871465472" duration="4000" />
+      <workItem from="1559912175802" duration="6219000" />
+      <workItem from="1559965682601" duration="57000" />
+      <workItem from="1560003918088" duration="1904000" />
+      <workItem from="1560042788104" duration="626000" />
+      <workItem from="1560152110665" duration="9002000" />
+      <workItem from="1560219104164" duration="128000" />
+      <workItem from="1560234501418" duration="6161000" />
+      <workItem from="1560417761147" duration="789000" />
+      <workItem from="1561381398321" duration="599000" />
+      <workItem from="1561427845902" duration="1335000" />
+      <workItem from="1561556015882" duration="2899000" />
+      <workItem from="1561608895334" duration="4129000" />
     </task>
     <task id="LOCAL-00001" summary="first git commit">
       <created>1557642027263</created>
@@ -963,13 +990,17 @@
       <option name="project" value="LOCAL" />
       <updated>1557720691170</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit test">
+      <created>1559383675470</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559383675470</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_mydict_test_TestDict - 2019.04.17 at 15h 23m 59s.xml">
-      <configuration name="pytest for mydict_test.TestDict" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_mydict_test_TestDict - 2019.04.17 at 15h 24m 10s.xml">
       <configuration name="pytest for mydict_test.TestDict" configurationId="tests" />
     </history-entry>
@@ -994,9 +1025,15 @@
     <history-entry file="pytest_for_decorator2_test1 - 2019.04.19 at 12h 32m 25s.xml">
       <configuration name="pytest for decorator2.test1" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_装饰器_py - 2019.06.10 at 20h 02m 26s.xml">
+      <configuration name="pytest in 装饰器.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_装饰器_py - 2019.06.10 at 20h 03m 03s.xml">
+      <configuration name="pytest in 装饰器.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="310800000" />
+    <option name="totallyTimeSpent" value="348891000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1008,15 +1045,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49588478" visible="true" weight="0.19101876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49588478" visible="true" weight="0.19031607" />
       <window_info id="Favorites" order="1" sideWeight="0.5041152" side_tool="true" weight="0.17962466" />
       <window_info id="Structure" order="2" sideWeight="0.5041152" side_tool="true" weight="0.17962466" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3569405" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13739377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1026,13 +1063,14 @@
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.6331445" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49865952" weight="0.49716714" />
-      <window_info anchor="bottom" x="22" y="302" width="1492" height="220" id="Python Console" order="12" sideWeight="0.49865952" weight="0.40934843" />
+      <window_info anchor="bottom" x="22" y="302" width="1492" height="220" id="Python Console" order="12" sideWeight="0.49865952" weight="0.34135976" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" sideWeight="0.49301398" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="4" sideWeight="0.49301398" weight="0.3297587" />
       <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.506986" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" id="aiXcoder" order="6" side_tool="true" weight="0.32952252" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1046,16 +1084,12 @@
     <MESSAGE value="4324" />
     <MESSAGE value="ruin git init again" />
     <MESSAGE value="beautifulSoup" />
-    <option name="LAST_COMMIT_MESSAGE" value="beautifulSoup" />
+    <MESSAGE value="commit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/code/day07/重写call方法.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/code/day08/异常处理/exceptionF.py</url>
           <line>3</line>
@@ -1076,344 +1110,88 @@
           <line>1</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythoin面试准备/面试题/test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型/instance03.py">
+    <entry file="file://D:/python/Anaconda3/Lib/site-packages/selenium/webdriver/common/service.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
+        <state relative-caret-position="466">
+          <caret line="75" column="49" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型/instance04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型/instance02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-498">
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型/总结">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-262" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型/instance01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/生产者消费者模型/JoinableQueueT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-690">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/事件-event/eventT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/Manage共享数据/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/进程池/知识点">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-615" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/进程池/进程池.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/进程池/进程池同步调用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/线程/同步条件-event/example02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-775">
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/线程/同步条件-event/example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/线程/守护线程和join/守护线程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/线程/守护线程和join/thread类方法">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/multiprocessing/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="70" column="19" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/python/Anaconda3/Lib/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="1234" column="28" lean-forward="true" selection-start-line="1234" selection-start-column="28" selection-end-line="1234" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/线程/守护线程和join/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/线程/futures模块/进程池异步调用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/线程/自定义线程池/demo02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day09/socket通信/socket01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day09/socket通信/socket客户端.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day12/selector模块应用/client.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day09/socket循环通信/客户端.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/线程/自定义线程池/demo01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day11/进程与线程/进程/守护进程/守护进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day12/selector模块应用/ftp_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webcrawler/day96/a.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webcrawler/ptmJS/ptmjs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webcrawler/ptmJS/seleniumtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="112">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding>
             <element signature="e#0#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redis/redisop.py">
+    <entry file="file://$PROJECT_DIR$/webcrawler/ptmJS/ptmjs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day06/使用property/Student.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day05/animal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1038" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day09/socket循环通信/服务器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day08/类装饰器/testde.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-772" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day02/generateTest.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day02/generate.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day02/iterator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-954" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day03/decorator2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day04/modules/jsonTest.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day04/hashlib模块/md5file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/day05/testNoitem.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/chouti.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        <state relative-caret-position="280">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
-            <element signature="e#24#37#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/面试题/命名空间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcrawler/ptmJS/simplebook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3108">
+          <caret line="118" column="18" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/面试题/深浅拷贝.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/面试题/一行代码数值交换.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/面试题/ip转为二进制.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="e#168#194#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1423,6 +1201,238 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webcrawler/day96/day96/spiders/cnblogs.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/面试题/栈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_demo/app01/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day01/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/面向对象测试/init方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/面试题/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/面试题/命名空间02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day03/闭包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day03/decorator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/python之函数/装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day13/测试面向对象/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1244044897/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153720">
+          <caret line="5490" column="8" selection-start-line="5490" selection-start-column="8" selection-end-line="5490" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day03/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-331">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day05/描述符/describle1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day04/configparse模块/configcreate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day04/configparse模块/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day04/configparse模块/configparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day07/重写迭代方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day07/面向对象进阶.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day07/重写call方法.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day07/重写getattr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day08/描述符的应用/描述符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day08/描述符的应用/example3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day08/描述符的应用/example2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day08/描述符的应用/描述符2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day08/描述符的应用/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day13/测试面向对象/super用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day13/测试面向对象/super用法02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day13/测试面向对象/superPython3用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day13/测试面向对象/super用法4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day13/并发编程练习/使用gevent创建协程.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day08/描述符的应用/描述符3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day08/描述符的应用/描述符4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day07/使用type.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day07/gsdattr方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/day03/decorator2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#1#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/redis/redishash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/redis/redislist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/redis/redisop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoin面试准备/rabbitdemo/direct_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

@@ -1,10 +1,9 @@
 #主进程代码运行完毕,守护进程就会结束
 from multiprocessing import Process
-from threading import Thread
 import time
 def foo():
     print(123)
-    time.sleep(1)
+    time.sleep(3)
     print("end123")
 
 def bar():

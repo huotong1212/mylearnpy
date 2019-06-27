@@ -35,9 +35,9 @@ print(config.items('TEMPLATEFILES'))
 print(config.get('TEMPLATEFILES', 'root'))
 # >> print(config.get('TEMPLATEFILES', 'root')) 同样可以获取[DEFAULT]中键的值
 
-# 删，改，增
+# 删，改，基本操作
 # config.write(open('test.ini','w'))
-# 1.增
+# 1.基本操作
 # 添加块
 config.add_section('IMAGES')
 # 给块添加键值

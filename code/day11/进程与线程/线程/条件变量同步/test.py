@@ -5,7 +5,7 @@
 # wait()、notify()、notifyAll()
 # 方法。
 #
-# lock_con = threading.Condition([Lock / Rlock])： 锁是可选选项，不传人锁，对象自动创建一个RLock()。
+# lock_con = threading.Condition([Lock / Rlock])： 锁是可选选项，不传入锁，对象自动创建一个RLock()。
 
 import threading,time
 from random import randint
